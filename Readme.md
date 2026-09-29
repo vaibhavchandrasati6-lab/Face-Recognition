@@ -101,3 +101,9 @@ Through this project, I worked with:
 * NumPy image processing
 * File and folder handling
 * Real-time video processing
+
+---
+
+👨‍💻 Author
+
+vaibhavchandrasati6-lab
